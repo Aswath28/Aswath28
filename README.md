@@ -24,7 +24,7 @@ These days I'm building in public — using Claude as a thought partner to ship 
 
 ### 🚧 What I'm building
 
-🔬 **Rx Scan** — A consumer health app that turns cryptic doctor prescriptions into something patients can actually understand. Snap a photo, get plain-language explanations of medications, dosages, and side effects, plus the right questions to ask your doctor next. Built for the millions of people who walk out of clinics holding paper they can't decipher.
+🔬 **[Rx Scan](https://github.com/Aswath28/rxscan)** — A consumer health app that turns cryptic doctor prescriptions into something patients can actually understand. Snap a photo, get plain-language explanations of medications, dosages, and side effects, plus the right questions to ask your doctor next. Built for the millions of people who walk out of clinics holding paper they can't decipher.
 
 🤖 **Custom Claude Skills** — Reusable workflows for job application strategy, role-fit analysis, and PM tasks I do repeatedly. Tools that compound.
 
