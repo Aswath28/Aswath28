@@ -28,8 +28,6 @@ These days I'm building in public — using Claude as a thought partner to ship 
 
 🤖 **Custom Claude Skills** — Reusable workflows for job application strategy, role-fit analysis, and PM tasks I do repeatedly. Tools that compound.
 
-📝 **Build-in-public log** — Sharing the messy middle on LinkedIn: dead ends, working drafts, and the occasional thing that ships.
-
 ---
 
 ### 🧰 Stack & tools
