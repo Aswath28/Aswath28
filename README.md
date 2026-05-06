@@ -24,7 +24,8 @@ These days I'm building in public — using Claude as a thought partner to ship 
 
 ### 🚧 What I'm building
 
-🔬 **[Rx Scan](https://rxscan-five.vercel.app/)** — Scan a prescription, see CDSCO-certified generic alternatives, save 50–90% on medicines. Plain-language explanations and drug-interaction checks built in. No signup, no data stored. Built for India 🇮🇳. *([code on GitHub](https://github.com/Aswath28/rxscan))*
+🔬 **[Rx Scan](https://github.com/Aswath28/rxscan)** — Scan a prescription, see CDSCO-certified generic alternatives, save 50–90% on medicines. Plain-language explanations and drug-interaction checks built in. No signup, no data stored. Built for India 🇮🇳. **[Try it Live →](https://rxscan-five.vercel.app/)**
+
 🤖 **Custom Claude Skills** — Reusable workflows for job application strategy, role-fit analysis, and PM tasks I do repeatedly. Tools that compound.
 
 ---
